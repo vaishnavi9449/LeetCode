@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vaishnavi9449/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [2239-find-closest-number-to-zero](https://github.com/vaishnavi9449/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 ## Stack
 |  |
 | ------- |
