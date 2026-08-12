@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vaishnavi9449/LeetCode/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vaishnavi9449/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0875-koko-eating-bananas](https://github.com/vaishnavi9449/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2239-find-closest-number-to-zero](https://github.com/vaishnavi9449/LeetCode/tree/master/2239-find-closest-number-to-zero) |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vaishnavi9449/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/vaishnavi9449/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
