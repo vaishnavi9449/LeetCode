@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vaishnavi9449/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vaishnavi9449/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaishnavi9449/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -66,13 +67,16 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vaishnavi9449/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaishnavi9449/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vaishnavi9449/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaishnavi9449/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vaishnavi9449/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaishnavi9449/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
