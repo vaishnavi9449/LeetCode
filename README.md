@@ -66,6 +66,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vaishnavi9449/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/vaishnavi9449/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/vaishnavi9449/LeetCode/tree/master/0147-insertion-sort-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaishnavi9449/LeetCode/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vaishnavi9449/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
