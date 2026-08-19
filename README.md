@@ -14,6 +14,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/vaishnavi9449/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavi9449/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/vaishnavi9449/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1386-cinema-seat-allocation](https://github.com/vaishnavi9449/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2239-find-closest-number-to-zero](https://github.com/vaishnavi9449/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vaishnavi9449/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
@@ -48,6 +49,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaishnavi9449/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/vaishnavi9449/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavi9449/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/vaishnavi9449/LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## String
 |  |
 | ------- |
@@ -104,4 +106,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vaishnavi9449/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/vaishnavi9449/LeetCode/tree/master/1386-cinema-seat-allocation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/vaishnavi9449/LeetCode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
