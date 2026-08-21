@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vaishnavi9449/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/vaishnavi9449/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/vaishnavi9449/LeetCode/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vaishnavi9449/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -32,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vaishnavi9449/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/vaishnavi9449/LeetCode/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/vaishnavi9449/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavi9449/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -39,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/vaishnavi9449/LeetCode/tree/master/0016-3sum-closest) |
 | [0147-insertion-sort-list](https://github.com/vaishnavi9449/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavi9449/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vaishnavi9449/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
