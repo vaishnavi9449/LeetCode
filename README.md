@@ -1,7 +1,7 @@
 # LeetCode
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# LeetCode Solutions
 ## Math
 |  |
 | ------- |
