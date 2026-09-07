@@ -96,6 +96,7 @@
 | [0226-invert-binary-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0226-invert-binary-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0226-invert-binary-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -141,4 +144,13 @@
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
