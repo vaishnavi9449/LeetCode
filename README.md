@@ -35,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaishnavi9449/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/vaishnavi9449/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/vaishnavi9449/LeetCode/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/vaishnavi9449/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaishnavi9449/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/vaishnavi9449/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaishnavi9449/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vaishnavi9449/LeetCode/tree/master/0020-valid-parentheses) |
 ## Sliding Window
@@ -151,6 +153,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaishnavi9449/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaishnavi9449/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
@@ -158,4 +161,8 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaishnavi9449/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaishnavi9449/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
