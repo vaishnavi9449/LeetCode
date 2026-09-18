@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vaishnavi9449/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vaishnavi9449/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0142-linked-list-cycle-ii](https://github.com/vaishnavi9449/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/vaishnavi9449/LeetCode/tree/master/0147-insertion-sort-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vaishnavi9449/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vaishnavi9449/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaishnavi9449/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vaishnavi9449/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaishnavi9449/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vaishnavi9449/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vaishnavi9449/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaishnavi9449/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vaishnavi9449/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaishnavi9449/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -118,6 +121,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vaishnavi9449/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vaishnavi9449/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaishnavi9449/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vaishnavi9449/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaishnavi9449/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -146,6 +150,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/vaishnavi9449/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/vaishnavi9449/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
