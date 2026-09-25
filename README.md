@@ -37,6 +37,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaishnavi9449/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/vaishnavi9449/LeetCode/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vaishnavi9449/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/vaishnavi9449/LeetCode/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/vaishnavi9449/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavi9449/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -76,6 +77,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vaishnavi9449/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vaishnavi9449/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vaishnavi9449/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0142-linked-list-cycle-ii](https://github.com/vaishnavi9449/LeetCode/tree/master/0142-linked-list-cycle-ii) |
