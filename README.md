@@ -14,6 +14,7 @@
 | [0031-next-permutation](https://github.com/vaishnavi9449/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaishnavi9449/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/vaishnavi9449/LeetCode/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/vaishnavi9449/LeetCode/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vaishnavi9449/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavi9449/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/vaishnavi9449/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vaishnavi9449/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/vaishnavi9449/LeetCode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/vaishnavi9449/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavi9449/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vaishnavi9449/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -56,6 +58,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaishnavi9449/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaishnavi9449/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vaishnavi9449/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/vaishnavi9449/LeetCode/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/vaishnavi9449/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavi9449/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/vaishnavi9449/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -67,6 +70,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaishnavi9449/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/vaishnavi9449/LeetCode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vaishnavi9449/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/vaishnavi9449/LeetCode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
