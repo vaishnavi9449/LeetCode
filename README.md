@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/vaishnavi9449/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vaishnavi9449/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/vaishnavi9449/LeetCode/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaishnavi9449/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vaishnavi9449/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vaishnavi9449/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaishnavi9449/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/vaishnavi9449/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
@@ -226,4 +228,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vaishnavi9449/LeetCode/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vaishnavi9449/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
