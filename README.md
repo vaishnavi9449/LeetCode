@@ -21,6 +21,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/vaishnavi9449/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavi9449/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/vaishnavi9449/LeetCode/tree/master/0463-island-perimeter) |
+| [0561-array-partition](https://github.com/vaishnavi9449/LeetCode/tree/master/0561-array-partition) |
 | [0733-flood-fill](https://github.com/vaishnavi9449/LeetCode/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/vaishnavi9449/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1386-cinema-seat-allocation](https://github.com/vaishnavi9449/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -59,6 +60,7 @@
 | [0049-group-anagrams](https://github.com/vaishnavi9449/LeetCode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/vaishnavi9449/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavi9449/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/vaishnavi9449/LeetCode/tree/master/0561-array-partition) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vaishnavi9449/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -168,6 +170,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/vaishnavi9449/LeetCode/tree/master/0561-array-partition) |
 | [1386-cinema-seat-allocation](https://github.com/vaishnavi9449/LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## Bit Manipulation
 |  |
@@ -234,4 +237,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vaishnavi9449/LeetCode/tree/master/0070-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/vaishnavi9449/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
