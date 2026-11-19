@@ -60,6 +60,7 @@
 | [0018-4sum](https://github.com/vaishnavi9449/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/vaishnavi9449/LeetCode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/vaishnavi9449/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0242-valid-anagram](https://github.com/vaishnavi9449/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavi9449/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/vaishnavi9449/LeetCode/tree/master/0561-array-partition) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/vaishnavi9449/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -73,6 +74,7 @@
 | [0076-minimum-window-substring](https://github.com/vaishnavi9449/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/vaishnavi9449/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaishnavi9449/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/vaishnavi9449/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavi9449/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/vaishnavi9449/LeetCode/tree/master/1386-cinema-seat-allocation) |
 ## String
@@ -86,6 +88,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vaishnavi9449/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/vaishnavi9449/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vaishnavi9449/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/vaishnavi9449/LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
